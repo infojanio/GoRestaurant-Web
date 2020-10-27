@@ -27,7 +27,7 @@ const Modal: React.FC<IModalProps> = ({ children, isOpen, setIsOpen }) => {
   return (
     <ReactModal
       shouldCloseOnOverlayClick={!false}
-      onRequestClose={setIsOpen}
+      onRequestClose={setIsOpen} // FECHA O MODAL QUANDO CLICAR FORA
       isOpen={modalStatus}
       ariaHideApp={false}
       style={{
