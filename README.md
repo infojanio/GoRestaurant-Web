@@ -9,10 +9,7 @@ Este projeto é um estudo em React para treinar funções básicas de uma aplica
 
 
 Resultado 🚀
-<img>
-![image](https://user-images.githubusercontent.com/59238443/165097380-050d484f-fc3d-43b9-9dbe-972593846696.png)
-
-<img/>
+![image](https://user-images.githubusercontent.com/59238443/165102013-5f746ff8-947e-482b-bccf-5b0f0dfd119e.png)
 
 
 Tecnologias Utilizadas 
