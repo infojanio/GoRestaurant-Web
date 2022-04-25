@@ -12,7 +12,7 @@ Resultado 🚀
 
 <img/>
 
-Tecnologias Utilizadas 🚀
+Tecnologias Utilizadas 
 
 React ⚛️
 
